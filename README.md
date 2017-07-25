@@ -20,8 +20,8 @@ This plugin hides/shows your completed assignments by clicking one button. It al
 
 ## ☰ Images:
 
-(mind that i use the awesome chocolate theme from BrainFooLong=Author of Better Battlogo Addon)
 ![BF4 Completed Assignments Prieview Image](https://getbblog.com/en/download?type=attachments&id=126358&file=completed-assignments.jpg "BF4 Completed Assignments Prieview")
+(mind that i use the awesome chocolate theme from BrainFooLong=Author of Better Battlogo Addon)
 
 
 ## ☰ Features:
