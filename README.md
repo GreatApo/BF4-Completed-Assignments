@@ -2,7 +2,7 @@
 ![Game](https://img.shields.io/badge/Game-Battlefield_4-blue.svg?style=flat)
 
 # BF4 Completed Assignments (Better Battlelog Plugin)
-
+![BF4 Completed Assignments Banner Image](https://getbblog.com/plugins/user/126667.jpg "BF4 Completed Assignments Banner")
 
 
 ## ☰ Before we start:
