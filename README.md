@@ -9,7 +9,7 @@
 
 ## ☰ Before we start:
 
-Better Battlelog is a blrowser addon for the webpage [Battlelog](http://battlelog.battlefield.com) which is a Web-UI for Battlefield games like Battlefield 3, Battlefield 4 and Battlefield Hardline. 
+[Better Battlelog](https://getbblog.com/) is a blrowser addon for the webpage [Battlelog](http://battlelog.battlefield.com) which is a Web-UI for Battlefield games like Battlefield 3, Battlefield 4 and Battlefield Hardline. 
 This project is a plugin that it is loaded within that addon (Better Battlelog) improving Battlefield 4 Web-UI.
 
 
@@ -31,6 +31,8 @@ This plugin hides/shows your completed assignments by clicking one button. It al
 
 ## ☰ Installation:
 Load the plugin directly from better battleog's plugin gallery.
+
+Plugin in Better Battlelog's [Forum link](https://getbblog.com/en/board/post/126360) and Plugin [Gallery Link](https://getbblog.com/en/plugin/126667/Completed-Assignments).
 
 
 ## ☰ Changelog:
