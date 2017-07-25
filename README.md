@@ -31,7 +31,7 @@ This plugin hides/shows your completed assignments by clicking one button. It al
 ## ☰ Installation:
 Load the plugin directly from better battlelog's plugin gallery. For manual installation use [this JS file](../master/completed-assignments.js).
 
-Plugin in Better Battlelog's [Forum link](https://getbblog.com/en/board/post/126360) and Plugin [Gallery Link](https://getbblog.com/en/plugin/126667/Completed-Assignments).
+Plugin in Better Battlelog's [Forum](https://getbblog.com/en/board/post/126360) and [Plugin Gallery](https://getbblog.com/en/plugin/126667/Completed-Assignments).
 
 
 ## ☰ Changelog:
