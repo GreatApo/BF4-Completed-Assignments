@@ -1,10 +1,8 @@
+![Version](https://img.shields.io/badge/Version-2.2-green.svg?style=flat)
+![Game](https://img.shields.io/badge/Game-Battlefield_4-blue.svg?style=flat)
+
 # BF4 Completed Assignments (Better Battlelog Plugin)
 
-| Name   | BF4 Completed Assignments|
-|:-------|:-------|
-| Author | GreatApo|
-| Version| 2.2|
-| Games  | Battlefield 4|
 
 
 ## ☰ Before we start:
